@@ -6,27 +6,32 @@
 with your group suggest and research one question that can be anserwed using economic or market data.
 
 Research Question:
-   <>
+
+Peer to peer lending
+
+We know that borrowers want loans with the appropriate monthly installment.
+
+We know that borrowers want loans with less term.
+
+Does the monthly installment affect the term of loan?
    
 Dependent Variable:
-  <y>
+(Terms) Term of loan
 
 Indepdendent Variable(s):
-  <X>
+(Installment) Monthly payment
     
 Data sources:
-    []
-    []
+https://www.kaggle.com/chenyangxxxxxxx/p2p-lending?select=P2P_Lending.csv
     
     
     
-Group Number #:
+Group Number #:2
     
     
 Group Members #:
-    1.
-    2.
-    3.
-    4.
-    5.
-    
+    1.Areej
+    2.Thuraya
+    3.Kholud
+    4.Ayat
+    5.Thamir
