@@ -2,7 +2,8 @@
 
 with your group suggest and research one question that can be anserwed using economic or market data.
 
-Research Question:
+Research Question:  
+
    Investigating for one REIT that was an example of a RealTec Market Traded Fund (DLR, REIT):  
    We know investors care about equity.  
    We know investors care about revenue.  
